@@ -16,6 +16,10 @@
         "source": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
+        "merged": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.8.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
         "merged": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_bar.xml"
     },
@@ -50,6 +54,14 @@
     {
         "merged": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.8.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.8.0\\res\\layout\\place_autocomplete_fragment.xml"
     },
     {
         "merged": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
@@ -158,6 +170,10 @@
     {
         "merged": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.8.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
     },
     {
         "merged": "D:\\android\\Jobsheet#2\\LocationDetection\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
